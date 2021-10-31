@@ -1,1 +1,1 @@
-# C20
+# gridsearch ridgeregression
